@@ -1,0 +1,62 @@
+[
+  {
+    "agent_id": "8411",
+    "total_bookings": 130,
+    "paid_bookings": 109,
+    "cancelled_bookings": 8,
+    "total_pax": 293,
+    "unique_destinations": 12,
+    "total_revenue": 888743,
+    "total_profit": 142785
+  },
+  {
+    "agent_id": "4025",
+    "total_bookings": 120,
+    "paid_bookings": 86,
+    "cancelled_bookings": 14,
+    "total_pax": 234,
+    "unique_destinations": 12,
+    "total_revenue": 789165,
+    "total_profit": 121126
+  },
+  {
+    "agent_id": "9320",
+    "total_bookings": 138,
+    "paid_bookings": 99,
+    "cancelled_bookings": 17,
+    "total_pax": 261,
+    "unique_destinations": 12,
+    "total_revenue": 777814,
+    "total_profit": 120862
+  },
+  {
+    "agent_id": "4111",
+    "total_bookings": 108,
+    "paid_bookings": 90,
+    "cancelled_bookings": 7,
+    "total_pax": 229,
+    "unique_destinations": 12,
+    "total_revenue": 670946,
+    "total_profit": 97028
+  },
+  {
+    "agent_id": "8629",
+    "total_bookings": 105,
+    "paid_bookings": 84,
+    "cancelled_bookings": 8,
+    "total_pax": 213,
+    "unique_destinations": 12,
+    "total_revenue": 668852,
+    "total_profit": 111470
+  },
+  {
+    "agent_id": "8402",
+    "total_bookings": 119,
+    "paid_bookings": 96,
+    "cancelled_bookings": 9,
+    "total_pax": 239,
+    "unique_destinations": 12,
+    "total_revenue": 664250,
+    "total_profit": 102254
+  }
+]
