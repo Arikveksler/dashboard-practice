@@ -4,3 +4,5 @@ standalone-site
 .vite
 *.local
 .DS_Store
+.env
+.env.*
